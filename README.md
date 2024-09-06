@@ -1,0 +1,8 @@
+- 👋 Hi there! I’m Kartikh Sharna
+- 👀 I'm passionate about Artificial Intelligence and Cybersecurity. I would love diving into new projects!
+- 🌱 I’m currently learning
+- Python
+- Javascript
+- Ruby
+- 💞️ I’m looking to collaborate on various projects
+- ⚡ Fun fact: I like to sketch and play video games in my free time.
